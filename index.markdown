@@ -18,4 +18,4 @@ Thank you for considering Profitacy for your copy trading needs. We look forward
 ![Robot profit](robot_profit.png)
 
 ## Get Started Today 📅
-Join the Profitacy community today and start trading smarter, not harder. Our easy-to-use platform, personalized support, and cutting-edge technology will help you achieve your financial goals. Sign up now to see the difference for yourself!
+Join the Profitacy community today and start trading smarter, not harder. Our easy-to-use platform, personalized support, and cutting-edge technology will help you achieve your financial goals. [Sign up](signup) now to see the difference for yourself!
