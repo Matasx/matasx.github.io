@@ -7,7 +7,7 @@ permalink: /signup/
 To sign up for our copy trading service, we utilize the capabilities of [Finandy](https://finandy.com/). With Finandy's copy trading function, it's incredibly easy to get started. Simply follow our master account, and our trades will be automatically replicated onto your own account. And don't worry, if you need any help getting started or have any questions along the way, [join on our Discord server](https://discord.gg/z9fSwxqr){:target="_blank"}. So what are you waiting for? Sign up today and start earning profits with our automated copy trading system!
 
 ## Getting Started
-We've made it incredibly easy for you to get started with copy trading. In just three simple steps, you can start earning passive income with our automated trading based on robot trading:
+We've made it incredibly easy for you to get started with copy trading. In just four simple steps, you can start earning passive income with our automated trading based on robot trading:
 
 1. **Read our [legal notice](/legal)**: By proceeding to the next step, you agree with our terms of use.
 1. **Create a Finandy account**: Finandy is the platform we use for our copy trading service. If you don't have an account yet, simply [create one by following the registration process on their website](https://finandy.com/en/register){:target="_blank"}.
