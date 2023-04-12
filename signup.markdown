@@ -11,7 +11,7 @@ We've made it incredibly easy for you to get started with copy trading. In just 
 
 1. **Read our [legal notice](/legal)**: By proceeding to the next step, you agree with our terms of use.
 1. **Create a Finandy account**: Finandy is the platform we use for our copy trading service. If you don't have an account yet, simply [create one by following the registration process on their website](https://finandy.com/en/register){:target="_blank"}.
-1. **Transfer funds to your Finandy account**: To start copy trading, you'll need to [fund your Finandy account with your preferred amount](https://docs.finandy.com/exchange/finandy/deposit){:target="_blank"}. This process is quick and secure, and Finandy supports a wide range of payment methods. You should deposit **USDT** or convert your other currency to USDT.
+1. **Transfer funds to your Finandy account**: To start copy trading, you'll need to [fund your Finandy account with your preferred amount](https://docs.finandy.com/exchange/finandy/deposit){:target="_blank"}. This process is quick and secure, and Finandy supports a wide range of payment methods. You should deposit **USDT** or convert your other currency to USDT. Once you have your deposit on Finandy exchange, transfer the funds from spot to **futures**. 
 1. **Follow our master account**: Once your Finandy account is funded, all you have to do is follow our master account over the copy trading function on Finandy. Our automated trading based on robot trading will do the rest, executing trades on your behalf and helping you earn passive income. Use the following master ID: **`6432f8f22741722db33067a8`**
 
 ## Get help
