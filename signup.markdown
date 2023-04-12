@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sign up
+title: How to sign up
 permalink: /signup/
 ---
 
