@@ -80,6 +80,8 @@ You are now ready to join our Master trader:
 
 > ![Join copytrading](/yes_confirm.png)
 
+- In order to make sure that you can be contacted easily if needed, you need to put your full **Discord** username (for example, `Jan#1234`) in the field that is labeled '**Telegram account**'.
+  - Don't worry that the field is labeled '**Telegram account**' -- even though it says Telegram, we actually primarily use Discord for communication, and it will accept any text you put into the field.
 - Change **Amount calculation** to **- % of Master balance**.
 - Keep all the other fields unchanged.
 - Click the **Save** button.
