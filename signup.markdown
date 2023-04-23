@@ -3,6 +3,7 @@ layout: page
 title: How to sign up
 permalink: /signup/
 ---
+> ![Czech](/czech.png) [Český návod naleznete zde](/registrace).
 
 To sign up for our copy trading service, we utilize the capabilities of [Finandy](https://finandy.com/). With Finandy's copy trading function, it's incredibly easy to get started. Simply follow our master account, and our trades will be automatically replicated onto your own account. And don't worry, if you need any help getting started or have any questions along the way, [join on our Discord server](https://discord.gg/xYcE8aY5mr){:target="_blank"}. So what are you waiting for? Sign up today and start earning profits with our automated copy trading system!
 
