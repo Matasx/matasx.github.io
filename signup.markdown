@@ -5,7 +5,7 @@ permalink: /signup/
 ---
 > ![Czech](/czech.png) [Český návod naleznete zde](/registrace).
 
-To sign up for our copy trading service, we utilize the capabilities of [Finandy](https://finandy.com/). With Finandy's copy trading function, it's incredibly easy to get started. Simply follow our master account, and our trades will be automatically replicated onto your own account. And don't worry, if you need any help getting started or have any questions along the way, [join on our Discord server](https://discord.gg/xYcE8aY5mr){:target="_blank"}. So what are you waiting for? Sign up today and start earning profits with our automated copy trading system!
+To sign up for our copy trading service, we utilize the capabilities of [Finandy](https://finandy.com/). With Finandy's copy trading function, it's incredibly easy to get started. Simply follow our master account, and our trades will be automatically replicated onto your own account. And don't worry, if you need any help getting started or have any questions along the way, [join on our Discord server](https://discord.gg/Z2GVBDznmY){:target="_blank"}. So what are you waiting for? Sign up today and start earning profits with our automated copy trading system!
 
 ## Understanding Copytrading
 Copytrading is a feature that allows you to automatically copy the trades of other traders in real-time. Essentially, you can follow and copy the trades of successful traders and benefit from their experience, knowledge, and expertise without having to spend the time and effort analyzing the market and making trading decisions on your own. By using copy trading, you can potentially increase your chances of success and learn from others in the process.
@@ -92,4 +92,4 @@ You are now ready to join our Master trader:
 🥳 **Congratulations! You are now all set.** You can sit back and enjoy the trades being automatically executed for you.
 
 ## Get help
-[Join our Discord community today](https://discord.gg/xYcE8aY5mr){:target="_blank"} and take advantage of the resources and expertise available to help you achieve your financial goals.
+[Join our Discord community today](https://discord.gg/Z2GVBDznmY){:target="_blank"} and take advantage of the resources and expertise available to help you achieve your financial goals.

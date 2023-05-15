@@ -5,7 +5,7 @@ permalink: /registrace/
 ---
 > ![English](/english.png) [Go to English version](/signup).
 
-Pro přihlášení k naší službě copytradingu využíváme služby [Finandy](https://finandy.com/). S funkcí Finandy copytrading je neuvěřitelně snadné začít. Stačí sledovat náš hlavní účet a naše obchody se automaticky replikují na váš vlastní účet. A nebojte se, pokud budete potřebovat pomoc jak začít nebo budete mít po cestě nějaké otázky, [připojte se na náš server Discord](https://discord.gg/xYcE8aY5mr){:target="_blank"}. Tak na co ještě čekáte? Zaregistrujte se ještě dnes a začněte vydělávat s naším automatickým copytrading systémem!
+Pro přihlášení k naší službě copytradingu využíváme služby [Finandy](https://finandy.com/). S funkcí Finandy copytrading je neuvěřitelně snadné začít. Stačí sledovat náš hlavní účet a naše obchody se automaticky replikují na váš vlastní účet. A nebojte se, pokud budete potřebovat pomoc jak začít nebo budete mít po cestě nějaké otázky, [připojte se na náš server Discord](https://discord.gg/Z2GVBDznmY){:target="_blank"}. Tak na co ještě čekáte? Zaregistrujte se ještě dnes a začněte vydělávat s naším automatickým copytrading systémem!
 
 ## Porozumění copytradingu
 Copytrading je funkce, která vám umožňuje automaticky kopírovat obchody jiných obchodníků v reálném čase. V podstatě můžete sledovat a kopírovat obchody úspěšných obchodníků a těžit z jejich zkušeností, znalostí a odbornosti, aniž byste museli trávit čas a úsilí analýzou trhu a přijímáním obchodních rozhodnutí na vlastní pěst. Pomocí kopírování obchodů můžete potenciálně zvýšit své šance na úspěch a učit se přitom od ostatních.
@@ -92,4 +92,4 @@ Nyní jste připraveni připojit se k našemu hlavnímu účtu:
 🥳 **Gratulujeme! Nyní máte vše nastaveno.** Můžete se pohodlně usadit a užívat si, že se za vás obchody provádějí automaticky.
 
 ## Řekněte si o pomoc
-[Připojte se k naší komunitě Discord ještě dnes](https://discord.gg/xYcE8aY5mr){:target="_blank"} a využijte dostupné zdroje a odborné znalosti, které vám pomohou dosáhnout vašich finančních cílů.
+[Připojte se k naší komunitě Discord ještě dnes](https://discord.gg/Z2GVBDznmY){:target="_blank"} a využijte dostupné zdroje a odborné znalosti, které vám pomohou dosáhnout vašich finančních cílů.
