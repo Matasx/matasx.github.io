@@ -83,7 +83,17 @@ You are now ready to join our Master trader:
 
 - In order to make sure that you can be contacted easily if needed, you need to put your full **Discord** username (for example, `Jan#1234`) in the field that is labeled '**Telegram account**'.
   - Don't worry that the field is labeled '**Telegram account**' -- even though it says Telegram, we actually primarily use Discord for communication, and it will accept any text you put into the field.
-- Change **Amount calculation** to **- % of Master balance**.
+- Change **Amount calculation** to **- Order volume, USD**.
+- Type in your selected **Order volume, USD** according to your risk management. We recommend to use 21% of your trading account. See the example table below:
+
+| **Account margin** | **Order volume, USD: 21%** | **Order volume, USD: 15%** |
+|-------------------:|---------------------------:|---------------------------:|
+|                400 |                         84 |                         60 |
+|                500 |                        105 |                         75 |
+|               1000 |                        210 |                        150 |
+|               1500 |                        315 |                        225 |
+|               2000 |                        420 |                        300 |
+
 - Keep all the other fields unchanged.
 - Click the **Save** button.
 

@@ -83,7 +83,17 @@ Nyní jste připraveni připojit se k našemu hlavnímu účtu:
 
 - Abyste měli jistotu, že vás v případě potřeby bude možné snadno kontaktovat, musíte do pole označeného jako "**Účet v Telegramu**" (_Telegram account_) uvést své celé **uživatelské jméno na Discordu** (například `Jan#1234`).
   - Pole je sice označeno jako '**Telegram účet**', ale ve skutečnosti pro komunikaci používáme především Discord. Do pole je možné napsat bez problémů jakýkoli text. Použijte tedy prosím vaše celé uživatelské jméno na Discordu.
-- Změňte **Výpočet částky** (_Amount calculation_) na **- % hlavního zůstatku** (_- % of Master balance_).
+- Změňte **Výpočet částky** (_Amount calculation_) na **- Objem objednávky, USD** (_- Order volume, USD_).
+- Vyplňte položku **- Objem objednávky, USD** (_- Order volume, USD_) podle vašeho risk managementu. Doporučujeme použít částku, která odpovídá 21% velikosti vašeho účtu. Můžete také použít následující tabulku s příklady:
+
+| **Velikost účtu** | **Order volume, USD: 21%** | **Order volume, USD: 15%** |
+|-------------------:|---------------------------:|---------------------------:|
+|                400 |                         84 |                         60 |
+|                500 |                        105 |                         75 |
+|               1000 |                        210 |                        150 |
+|               1500 |                        315 |                        225 |
+|               2000 |                        420 |                        300 |
+
 - Ostatní pole ponechte beze změny.
 - Klikněte na tlačítko **Uložit** (_Save_).
 
